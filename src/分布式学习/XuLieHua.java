@@ -10,6 +10,7 @@ import java.io.ObjectOutputStream;
 
 /**
  * Created by acer on 2017/3/14.
+ * 学习分布式原理
  */
 public class XuLieHua {
 
