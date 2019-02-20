@@ -2,45 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a49a68fc-2ef3-4e07-9a98-a31dc9bb6ff7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Three.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/Review/Shuati.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/Review/Shuati.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/java基础/FloydInGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/java基础/FloydInGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/java基础/Main011$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/java基础/Main011$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/java基础/Main011.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/java基础/Main011.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/java基础/Main019.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/java基础/Main019.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/java基础/Main24$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/java基础/Main24$Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/java基础/Main25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/java基础/Main25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/java基础/TimerAndTask$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/java基础/TimerAndTask$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/java基础/TimerAndTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/java基础/TimerAndTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/java面试宝典/MyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/java面试宝典/MyLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/分布式学习/XuLieHua.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/分布式学习/XuLieHua.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/剑指Offer/Main05$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/剑指Offer/Main05$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/剑指Offer/Main06$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/剑指Offer/Main06$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/剑指Offer/Main06$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/剑指Offer/Main06$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/剑指Offer/Main06$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/剑指Offer/Main06$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/剑指Offer/Main06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/剑指Offer/Main06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/剑指Offer/MianShi03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/剑指Offer/MianShi03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/剑指Offer/MianShi04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/剑指Offer/MianShi04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/剑指Offer/QucikSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/剑指Offer/QucikSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/反射/Reflection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/反射/Reflection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/好未来笔试/Solution$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/好未来笔试/Solution$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/好未来笔试/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/好未来笔试/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/排序算法/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/排序算法/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/有道笔试/Main01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/有道笔试/Main01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/测试/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/测试/Son.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/测试/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/测试/Test01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/测试/Test02$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/测试/Test02$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/测试/Test02$SingleTon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/测试/Test02$SingleTon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/测试/Test02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/测试/Test02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/测试/Test04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/测试/Test04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/测试/Test08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/测试/Test08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/测试/TestInnerClass$1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/测试/TestInnerClass$1Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/测试/TestInnerClass$Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/测试/TestInnerClass$Test01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/findJob/测试/TestInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/findJob/测试/TestInnerClass.class" afterDir="false" />
     </list>
     <ignored path="findJob.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,24 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test03.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/测试/Test03.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test04.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/测试/Test04.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Test05.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/测试/Test05.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,7 +62,7 @@
       <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="297">
               <caret line="11" selection-start-line="11" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -130,17 +75,35 @@
       <file leaf-file-name="ReverseInteger.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/ReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1210">
+            <state relative-caret-position="1782">
               <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/AddTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StududyGitOne.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gitstudy/StududyGitOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Three.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/Three.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-42">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -184,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java基础/Main003.java" />
         <option value="$PROJECT_DIR$/src/java基础/Main005.java" />
         <option value="$PROJECT_DIR$/src/java基础/Main006.java" />
         <option value="$PROJECT_DIR$/src/java基础/TimerAndTask.java" />
@@ -235,6 +197,7 @@
         <option value="$PROJECT_DIR$/src/LeetCode/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/Three.java" />
       </list>
     </option>
   </component>
@@ -250,9 +213,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="728" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -276,6 +241,12 @@
               <item name="findJob" type="b2602c69:ProjectViewProjectNode" />
               <item name="findJob" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="findJob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="findJob" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gitstudy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="findJob" type="b2602c69:ProjectViewProjectNode" />
@@ -326,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddTwoNumbers">
+  <component name="RunManager" selected="Application.Three">
     <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.AddTwoNumbers" />
       <module name="findJob" />
@@ -347,17 +318,15 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="测试.Test06" />
+    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Three" />
       <module name="findJob" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="测试.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
     </configuration>
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.TwoSum" />
@@ -419,19 +388,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Test06" />
       <item itemvalue="Application.XuLieHua" />
       <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.ReverseInteger" />
       <item itemvalue="Application.AddTwoNumbers" />
+      <item itemvalue="Application.Three" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Three" />
         <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.XuLieHua" />
-        <item itemvalue="Application.Test06" />
       </list>
     </recent_temporary>
   </component>
@@ -497,15 +466,15 @@
       <workItem from="1489371216644" duration="1742000" />
       <workItem from="1489479098508" duration="3373000" />
       <workItem from="1489594438352" duration="206000" />
-      <workItem from="1550117444454" duration="25643000" />
+      <workItem from="1550117444454" duration="32682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="311111000" />
+    <option name="totallyTimeSpent" value="318150000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <frame x="-183" y="-1088" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
@@ -519,7 +488,7 @@
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.374183" />
       <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32961783" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.45751634" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="right" id="Designer" order="5" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.19111112" />
@@ -546,7 +515,7 @@
       <window_info anchor="right" id="Designer" order="5" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.23529412" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.374183" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -557,14 +526,14 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="IDEtalk Messages" order="9" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32991454" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32843137" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Maven Projects" order="9" weight="0.32980332" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32961783" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.45751634" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19111112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19111112" />
       <window_info anchor="right" id="IDEtalk" order="7" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Message" order="1" />
@@ -573,7 +542,7 @@
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44102564" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43954247" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,8 +580,14 @@
           <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Three.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="106" />
+      <option name="time" value="107" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -620,13 +595,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java基础/Main26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指Offer/MianShi03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -680,13 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gitstudy/StududyGitOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -941,17 +902,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" selection-start-line="11" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#551#560#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/lang/NumberFormatException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -979,10 +929,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/ReverseInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/gitstudy/StududyGitOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1210">
-          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        <state relative-caret-position="66">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#551#560#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -990,6 +951,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
